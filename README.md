@@ -611,6 +611,11 @@ Our paper [_**A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Anal
 | 06 | [Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Bai_Unified_Data-Free_Compression_Pruning_and_Quantization_without_Fine-Tuning_ICCV_2023_paper.pdf) | ICCV | - | Image Classification | 2023 |
 
 
+### 4.2 Pruning and Decomposition
+| No. | Title   | Venue | Code | APP | Year |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------------:|:----:|:----:|:----:|:----:|
+| 01 | [Enhanced Network Compression Through Tensor Decompositions and Pruning](https://ieeexplore.ieee.org/document/10463116) | TNNLS | [PyTorch(Author)](https://github.com/pvti/NORTON) | Image Classification&Object Detection&Human Pose Estimation | 2024 |
+| 02 | [Efficient tensor decomposition-based filter pruning](https://doi.org/10.1016/j.neunet.2024.106393) | Neural Networks | [PyTorch(Author)](https://github.com/pvti/CORING) | Image Classification&Object Detection&Human Pose Estimation | 2024 |
 
 
 ## 5. Survey of Pruning
