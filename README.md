@@ -41,6 +41,7 @@
   - [3.3 Audio Signal Processing](#33-audio-signal-processing)
 - [4. Combination](#4-combination) 
   - [4.1 pruning and quantization](#41-pruning-and-quantization)
+  - [4.2 pruning and decomposition](#42-pruning-and-decomposition)
 - [5. Survey of Pruning](#5-survey-of-pruning)
   - [2024](#survey-of-pruning-2024)  [2023](#survey-of-pruning-2023)  [2022](#survey-of-pruning-2022)  [2021](#survey-of-pruning-2021)  [2020](#survey-of-pruning-2020)  [2019 and earlier](#survey-of-pruning-2019-and-earlier)   
 - [6. Other Works](#6-other-works)
